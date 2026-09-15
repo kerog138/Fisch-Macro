@@ -10,4 +10,4 @@ local _1Il1lI1l1I6=table.concat(______lI1llIl2)
 local _1Il1lI1l1I6=(loadstring or load)(_1Il1lI1l1I6)
 if not _1Il1lI1l1I6 then error("protected script could not be loaded") end
 return _1Il1lI1l1I6()
-Print("Jayden your fucking niggerrrrrrr")
+print("Jayden your fucking niggerrrrrrr")
